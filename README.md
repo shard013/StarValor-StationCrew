@@ -1,4 +1,4 @@
-# Star Valor Station Crew - auto buy/sell/repair
+# Star Valor Station Crew - Auto Buy/Sell/Repair
 
 An BepInEx plugin for [Star Valor](https://store.steampowered.com/app/833360/Star_Valor/).
 
